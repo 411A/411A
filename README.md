@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **411A/411A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+### Hi there 👋, I’m AlI
+
+- 👨‍💻 Python Developer (Django, DS, ML)
+- 🎓 Software Engineering Student
+---
+
+
+
+<a href="https://github.com/411A">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=411A&show_icons=true&theme=tokyonight" />
+</a>
+
+</br>
+</br>
+<!--
+📫 **Contact me:**
 -->
