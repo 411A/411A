@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I’m AlI
+### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a> Hi there, I’m AlI
 
 - 👨‍💻 Python & Rust Developer
 - 🎓 Algorithm and Theory of Computation Student
@@ -28,10 +28,8 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
-- 📫 How to reach me: ali@abditory.ir
+### 📫 How to reach me:
 
-</br>
-</br>
-<!--
-📫 **Contact me:** 
--->
+- <img src="https://www.svgrepo.com/show/241788/email-mail.svg" width="18"> &nbsp;&nbsp;&nbsp;&nbsp; ali@abditory.ir
+
+- <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="18"> <img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" width="18"> <a href="https://t.me/ContactHydraBot">ContactHydraBot</a>
