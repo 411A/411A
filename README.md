@@ -100,12 +100,12 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://t.me/ContactHydraBot">
+        <a href="https://t.me/TechKrakenBot">
           <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="25" width="25" /><img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" height="25" width="25" />
         </a>
       </td>
       <td align="left" valign="middle">
-        <a href="https://t.me/ContactHydraBot">https://t.me/ContactHydraBot</a>
+        <a href="https://t.me/TechKrakenBot">https://t.me/TechKrakenBot</a>
       </td>
     </tr>
   </tbody>
