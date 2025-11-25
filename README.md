@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a> Hi there, I’m AlI
 
 - 👨‍💻 Python & Rust Developer
-- 🎓 Algorithm and Theory of Computation Student
+- 🎓 Master's Student — Algorithms & Theory of Computation
 
 <!-- one-badge-per-line source, renders 10 icons per visual row (5 rows total) -->
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="36" height="36" alt="Python"></a>&nbsp;&nbsp;<!--
