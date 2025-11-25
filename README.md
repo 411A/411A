@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,svelte,js,ts,mongo,sqlite,postgres,redis,docker,git,nginx,cloudflare,vercel,gcp,aws\&perline=8)](https://skillicons.dev)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=411A" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=411A&theme=gruvbox-duo&hide_border=false&border_radius=10&starting_year=default" alt="GitHub Streak" /></a>
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,svelte,js,ts,mongo,postgres,redis,git,docker\&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,rust,svelte,js,ts,mongo,sqlite,postgres,redis,docker,git,nginx,cloudflare,vercel,gcp,aws,\&perline=8" />
   </a>
 </p> -->
 
