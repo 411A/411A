@@ -30,6 +30,27 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 
-- <img src="https://www.svgrepo.com/show/241788/email-mail.svg" width="18"> &nbsp;&nbsp;&nbsp;&nbsp; ali@abditory.ir
-
-- <img src="https://www.svgrepo.com/show/452115/telegram.svg" width="18"> <img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" width="18"> <a href="https://t.me/ContactHydraBot">ContactHydraBot</a>
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="mailto:ali@abditory.ir">
+          <img src="https://www.svgrepo.com/show/241788/email-mail.svg" height="25" width="25" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <a href="mailto:ali@abditory.ir">ali@abditory.ir</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://t.me/ContactHydraBot">
+          <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="25" width="25" /><img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" height="25" width="25" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://t.me/ContactHydraBot">https://t.me/ContactHydraBot</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
