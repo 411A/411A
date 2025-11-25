@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 --><a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai&theme=light" width="36" height="36" alt="Adobe Illustrator"></a>&nbsp;&nbsp;<!--
 --><a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae&theme=light" width="36" height="36" alt="After Effects"></a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=411A&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=411A&theme=nord_bright)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=411A&theme=gruvbox-duo&hide_border=false&border_radius=10&starting_year=default" alt="GitHub Streak" /></a>
 
