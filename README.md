@@ -84,6 +84,97 @@ Here are some ideas to get you started:
   </a>
 </p> -->
 
+### 🚀 Open-Source Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/readest">readest</a></b> <br>
+      Modern cross-platform ebook reader built with Tauri v2, featuring a Svelte-based UI and seamless reading experience.
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tauri-FFC138?style=flat-square&logo=tauri&logoColor=black" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/RAVELIN">RAVELIN</a></b> <br>
+      Real-time Linux VPS intrusion prevention system monitoring Suricata alerts, scoring IPs, and auto-blocking via ipset.
+      <br><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Suricata-FF6600?style=flat-square" />
+      <img src="https://img.shields.io/badge/ipset--iptables-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ratatui_TUI-FFC107?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/V2RayDAR">V2RayDAR</a></b> <br>
+      Advanced TUI proxy client supporting VLESS, VMess, Trojan, Shadowsocks, Hysteria2, and TUIC via sing-box.
+      <br><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/sing--box-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/TUI-FFC107?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator">Telegram Anonymous Bot Creator</a></b> <br>
+      Modular framework for Telegram anonymous messaging bots with zero-knowledge security, FastAPI webhooks, and Docker deployment.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/Protixy">Protixy</a></b> <br>
+      Docker-based local proxy via ProtonVPN (OpenVPN) and Tinyproxy with automatic VPN leak detection and self-healing.
+      <br><br>
+      <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnu-bash&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenVPN-FF6600?style=flat-square&logo=openvpn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tinyproxy-000000?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/timezones-dataset">timezones-dataset</a></b> <br>
+      Curated dataset of countries, timezones, cities, and emoji flags — built via a Python web-scraping pipeline.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/DuomeScraper">DuomeScraper</a></b> <br>
+      Scrapes Duolingo vocabulary via Duome, generates audio pronunciations with gTTS, and bundles everything into Anki flashcard decks.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/gTTS-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Anki-2CA5E0?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/NASA-Clean-Air-Study">NASA-Clean-Air-Study</a></b> <br>
+      Scrapes plant data from Wikipedia and visualizes NASA Clean Air Study findings with interactive Plotly charts in Google Colab.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F76?style=flat-square&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+> 💡 **Looking for more?** For other projects, utility scripts, and tools, please visit my website at **[abditory.ir/projects](https://abditory.ir/projects)**.
+
+
 ### 📫 How to reach me:
 
 <table>
