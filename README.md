@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/411A/readest">readest</a></b> <br>
+      <b><a href="https://github.com/readest/readest">readest</a></b> <br>
       Modern cross-platform ebook reader built with Tauri v2, featuring a Svelte-based UI and seamless reading experience.
       <br><br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
