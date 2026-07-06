@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Hi there, I’m AlI
 
-- 👨‍💻 Python & Rust Developer
+- 👨‍💻 Software Engineer — Python & Rust Developer
 - 🎓 Master's Student — Algorithms & Theory of Computation
 
 <!-- one-badge-per-line source, renders 10 icons per visual row (5 rows total) -->
