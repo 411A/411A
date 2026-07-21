@@ -111,12 +111,25 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/411A/V2RayDAR">V2RayDAR</a></b> <br>
-      Advanced TUI proxy client supporting VLESS, VMess, Trojan, Shadowsocks, Hysteria2, and TUIC via sing-box.
+      Cross-platform V2Ray subscription radar that discovers, validates, ranks, and serves the best proxy configs with sing-box and a built-in TUI.
       <br><br>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/sing--box-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/TUI-FFC107?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ratatui_TUI-FFC107?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/V2ProDock">V2ProDock</a></b> <br>
+      Dockerized V2Ray/Xray proxy client managing the full lifecycle — subscription parsing, health-checking, and auto-failover with zero config.
+      <br><br>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/xray--core-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator">Telegram Anonymous Bot Creator</a></b> <br>
       Modular framework for Telegram anonymous messaging bots with zero-knowledge security, FastAPI webhooks, and Docker deployment.
@@ -126,9 +139,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
-  </tr>
-
-  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/411A/Protixy">Protixy</a></b> <br>
       Docker-based local proxy via ProtonVPN (OpenVPN) and Tinyproxy with automatic VPN leak detection and self-healing.
@@ -137,6 +147,18 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenVPN-FF6600?style=flat-square&logo=openvpn&logoColor=white" />
       <img src="https://img.shields.io/badge/Tinyproxy-000000?style=flat-square" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/LMS-Video-Extractor">LMS Video Downloader</a></b> <br>
+      Python automation tool that logs into Moodle LMS, downloads offline lecture recordings, extracts MP4s, and organizes them by course.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/pydantic-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/7--Zip-000000?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/411A/timezones-dataset">timezones-dataset</a></b> <br>
@@ -150,6 +172,15 @@ Here are some ideas to get you started:
 
   <tr>
     <td width="50%" valign="top">
+      <b><a href="https://github.com/411A/tseStock">Stock Prediction using LSTM</a></b> <br>
+      Stock price prediction project using LSTM neural networks with data from TSE (Tehran Stock Exchange).
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-DD0000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F76?style=flat-square&logo=plotly&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/411A/DuomeScraper">DuomeScraper</a></b> <br>
       Scrapes Duolingo vocabulary via Duome, generates audio pronunciations with gTTS, and bundles everything into Anki flashcard decks.
       <br><br>
@@ -158,6 +189,9 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/gTTS-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Anki-2CA5E0?style=flat-square" />
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/411A/NASA-Clean-Air-Study">NASA-Clean-Air-Study</a></b> <br>
       Scrapes plant data from Wikipedia and visualizes NASA Clean Air Study findings with interactive Plotly charts in Google Colab.
@@ -167,13 +201,14 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Plotly-3F4F76?style=flat-square&logo=plotly&logoColor=white" />
       <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square" />
     </td>
+    <td width="50%" valign="top">
+    </td>
   </tr>
 </table>
 
 <br>
 
 > 💡 **Looking for more?** For other projects, utility scripts, and tools, please visit my website at **[abditory.ir/projects](https://abditory.ir/projects)**.
-
 
 ### 📫 How to reach me:
 
