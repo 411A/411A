@@ -325,39 +325,6 @@ Here are some ideas to get you started:
 
 > 💡 **Looking for more?** For other projects, utility scripts, and tools, please visit my website at **[abditory.ir/projects](https://abditory.ir/projects)**.
 
-
-### 📫 How to reach me:
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="mailto:ali@abditory.ir">
-          <img src="https://www.svgrepo.com/show/241788/email-mail.svg" height="25" width="25" />
-        </a>
-      </td>
-      <td align="left" valign="middle">
-        <a href="mailto:ali@abditory.ir">ali@abditory.ir</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://t.me/TechKrakenBot">
-          <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="25" width="25" /><img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" height="25" width="25" />
-        </a>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://t.me/TechKrakenBot">https://t.me/TechKrakenBot</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-> 💡 **Looking for more?** For other projects, utility scripts, and tools, please visit my website at **[abditory.ir/projects](https://abditory.ir/projects)**.
-
-
 ### 📫 How to reach me:
 
 <table>
