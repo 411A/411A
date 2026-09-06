@@ -90,11 +90,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/readest/readest">Readest</a>
-  </b>
+    <a href="https://github.com/readest/readest">Readest
   <br>
     <img src="https://img.shields.io/github/stars/readest/readest?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/readest/readest?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/readest/readest?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Modern cross-platform ebook reader built with Tauri v2, featuring a Svelte-based UI and seamless reading experience.
@@ -110,11 +110,11 @@ Here are some ideas to get you started:
 <td width="50%" valign="top">
 
   <b>
-    <a href="https://github.com/411A/RAVELIN">RAVELIN</a>
-  </b>
+    <a href="https://github.com/411A/RAVELIN">RAVELIN
   <br>
     <img src="https://img.shields.io/github/stars/411A/RAVELIN?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/RAVELIN?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/RAVELIN?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Real-time Linux VPS intrusion prevention system monitoring Suricata alerts, scoring IPs, and auto-blocking via ipset.
@@ -132,11 +132,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/411A/V2RayDAR">V2RayDAR</a>
-  </b>
+    <a href="https://github.com/411A/V2RayDAR">V2RayDAR
   <br>
     <img src="https://img.shields.io/github/stars/411A/V2RayDAR?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/V2RayDAR?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/V2RayDAR?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Cross-platform V2Ray subscription radar that discovers, validates, ranks, and serves the best proxy configs with sing-box and a built-in TUI.
@@ -152,11 +152,11 @@ Here are some ideas to get you started:
 <td width="50%" valign="top">
 
   <b>
-    <a href="https://github.com/411A/V2ProDock">V2ProDock</a>
-  </b>
+    <a href="https://github.com/411A/V2ProDock">V2ProDock
   <br>
     <img src="https://img.shields.io/github/stars/411A/V2ProDock?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/V2ProDock?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/V2ProDock?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Dockerized V2Ray/Xray proxy client managing the full lifecycle — subscription parsing, health-checking, and auto-failover with zero config.
@@ -174,11 +174,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator">Telegram Anonymous Bot Creator</a>
-  </b>
+    <a href="https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator">Telegram Anonymous Bot Creator
   <br>
     <img src="https://img.shields.io/github/stars/411A/Telegram-Anonymous-Messaging-Bot-Creator?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/Telegram-Anonymous-Messaging-Bot-Creator?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/Telegram-Anonymous-Messaging-Bot-Creator?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Modular framework for Telegram anonymous messaging bots with zero-knowledge security, FastAPI webhooks, and Docker deployment.
@@ -194,11 +194,11 @@ Here are some ideas to get you started:
 <td width="50%" valign="top">
 
   <b>
-    <a href="https://github.com/411A/Protixy">Protixy</a>
-  </b>
+    <a href="https://github.com/411A/Protixy">Protixy
   <br>
     <img src="https://img.shields.io/github/stars/411A/Protixy?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/Protixy?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/Protixy?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Docker-based local proxy via ProtonVPN (OpenVPN) and Tinyproxy with automatic VPN leak detection and self-healing.
@@ -216,11 +216,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/411A/LMS-Video-Extractor">LMS Video Downloader</a>
-  </b>
+    <a href="https://github.com/411A/LMS-Video-Extractor">LMS Video Downloader
   <br>
     <img src="https://img.shields.io/github/stars/411A/LMS-Video-Extractor?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/LMS-Video-Extractor?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/LMS-Video-Extractor?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Python automation tool that logs into Moodle LMS, downloads offline lecture recordings, extracts MP4s, and organizes them by course.
@@ -236,11 +236,11 @@ Here are some ideas to get you started:
 <td width="50%" valign="top">
 
   <b>
-    <a href="https://github.com/411A/timezones-dataset">timezones-dataset</a>
-  </b>
+    <a href="https://github.com/411A/timezones-dataset">timezones-dataset
   <br>
     <img src="https://img.shields.io/github/stars/411A/timezones-dataset?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/timezones-dataset?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/timezones-dataset?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Curated dataset of countries, timezones, cities, and emoji flags — built via a Python web-scraping pipeline.
@@ -257,11 +257,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/411A/tseStock">Stock Prediction using LSTM</a>
-  </b>
+    <a href="https://github.com/411A/tseStock">Stock Prediction using LSTM
   <br>
     <img src="https://img.shields.io/github/stars/411A/tseStock?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/tseStock?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/tseStock?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Stock price prediction project using LSTM neural networks with data from TSE (Tehran Stock Exchange).
@@ -277,11 +277,11 @@ Here are some ideas to get you started:
 <td width="50%" valign="top">
 
   <b>
-    <a href="https://github.com/411A/DuomeScraper">DuomeScraper</a>
-  </b>
+    <a href="https://github.com/411A/DuomeScraper">DuomeScraper
   <br>
     <img src="https://img.shields.io/github/stars/411A/DuomeScraper?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/DuomeScraper?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/DuomeScraper?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Scrapes Duolingo vocabulary via Duome, generates audio pronunciations with gTTS, and bundles everything into Anki flashcard decks.
@@ -299,11 +299,11 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
-    <a href="https://github.com/411A/NASA-Clean-Air-Study">NASA-Clean-Air-Study</a>
-  </b>
+    <a href="https://github.com/411A/NASA-Clean-Air-Study">NASA-Clean-Air-Study
   <br>
     <img src="https://img.shields.io/github/stars/411A/NASA-Clean-Air-Study?style=social" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/411A/NASA-Clean-Air-Study?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/411A/NASA-Clean-Air-Study?style=social" alt="GitHub forks"></a>
+  </b>
   <br>
 
   Scrapes plant data from Wikipedia and visualizes NASA Clean Air Study findings with interactive Plotly charts in Google Colab.
@@ -319,6 +319,38 @@ Here are some ideas to get you started:
 <td width="50%" valign="top"></td>
 
   </tr>
+</table>
+
+<br>
+
+> 💡 **Looking for more?** For other projects, utility scripts, and tools, please visit my website at **[abditory.ir/projects](https://abditory.ir/projects)**.
+
+
+### 📫 How to reach me:
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="mailto:ali@abditory.ir">
+          <img src="https://www.svgrepo.com/show/241788/email-mail.svg" height="25" width="25" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <a href="mailto:ali@abditory.ir">ali@abditory.ir</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://t.me/TechKrakenBot">
+          <img src="https://www.svgrepo.com/show/452115/telegram.svg" height="25" width="25" /><img src="https://www.svgrepo.com/show/381141/anonymous-cyber-crime-criminal-hack-hacker.svg" height="25" width="25" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://t.me/TechKrakenBot">https://t.me/TechKrakenBot</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
