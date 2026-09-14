@@ -139,7 +139,7 @@ Here are some ideas to get you started:
   </b>
   <br>
 
-  Cross-platform V2Ray subscription radar that discovers, validates, ranks, and serves the best proxy configs with sing-box and a built-in TUI.
+  Cross-platform V2Ray proxy intelligence platform that discovers, probes, ranks, and automatically serves the best-performing nodes through a rich TUI and local web dashboard.
   <br><br>
 
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -159,7 +159,7 @@ Here are some ideas to get you started:
   </b>
   <br>
 
-  Dockerized V2Ray/Xray proxy client managing the full lifecycle — subscription parsing, health-checking, and auto-failover with zero config.
+  Self-hosted V2Ray/Xray proxy gateway that transforms V2Ray access into HTTP/SOCKS5 proxies and L2TP/IPsec, IKEv2, and PPTP VPNs for Docker, proxy-dependent apps, and legacy devices without native V2Ray support.
   <br><br>
 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
