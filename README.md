@@ -174,6 +174,26 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
   <b>
+    <a href="https://github.com/411A/AmnPM">AmnPM
+  <br>
+    <img src="https://img.shields.io/github/stars/411A/AmnPM?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/411A/AmnPM?style=social" alt="GitHub forks"></a>
+  </b>
+  <br>
+
+  Privacy-first anonymous inbox bot for Telegram — one link, three sender anonymity modes, encrypted routing, and zero runtime dependencies.
+  <br><br>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Serverless-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
+
+</td>
+
+<td width="50%" valign="top">
+
+  <b>
     <a href="https://github.com/411A/Telegram-Anonymous-Messaging-Bot-Creator">Telegram Anonymous Bot Creator
   <br>
     <img src="https://img.shields.io/github/stars/411A/Telegram-Anonymous-Messaging-Bot-Creator?style=social" alt="GitHub stars">
@@ -191,8 +211,10 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="50%" valign="top">
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/Protixy">Protixy
   <br>
@@ -211,10 +233,8 @@ Here are some ideas to get you started:
 
 </td>
 
-  </tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/LMS-Video-Extractor">LMS Video Downloader
   <br>
@@ -233,8 +253,10 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="50%" valign="top">
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/timezones-dataset">timezones-dataset
   <br>
@@ -252,10 +274,8 @@ Here are some ideas to get you started:
 
 </td>
 
-  </tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/tseStock">Stock Prediction using LSTM
   <br>
@@ -274,8 +294,10 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="50%" valign="top">
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/DuomeScraper">DuomeScraper
   <br>
@@ -294,10 +316,8 @@ Here are some ideas to get you started:
 
 </td>
 
-  </tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
   <b>
     <a href="https://github.com/411A/NASA-Clean-Air-Study">NASA-Clean-Air-Study
   <br>
@@ -315,8 +335,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square" />
 
 </td>
-
-<td width="50%" valign="top"></td>
 
   </tr>
 </table>
